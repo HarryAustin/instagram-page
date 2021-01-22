@@ -6,27 +6,27 @@
 
 @font-face{
     font-family:customBlack;
-    src:url(assets/fonts/FreightSansProBlack-Regular.ttf)
+    src:url(Assets/fonts/FreightSansProBlack-Regular.ttf)
 }
 
 @font-face{
     font-family:customBold;
-    src:url(assets/fonts/FreightSansProBold-Regular.ttf)
+    src:url(Assets/fonts/FreightSansProBold-Regular.ttf)
 }
 
 @font-face{
     font-family:customLight;
-    src:url(assets/fonts/FreightSansProLight-Regular.ttf)
+    src:url(Assets/fonts/FreightSansProLight-Regular.ttf)
 }
 
 @font-face{
     font-family:customMedium;
-    src:url(assets/fonts/FreightSansProMedium-Regular.ttf)
+    src:url(Assets/fonts/FreightSansProMedium-Regular.ttf)
 }
 
 @font-face{
     font-family:customBold;
-    src:url(assets/fonts/FreightSansProSemibold-Regular.ttf)
+    src:url(Assets/fonts/FreightSansProSemibold-Regular.ttf)
 }
 
 body{
